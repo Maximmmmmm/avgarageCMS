@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_blocks_feedbacks",
+  "info": {
+    "displayName": "feedback"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "message": {
+      "type": "text",
+      "required": true
+    },
+    "rating": {
+      "type": "decimal",
+      "required": true
+    }
+  },
+  "config": {}
+}

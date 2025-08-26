@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_ui_components_sliders",
+  "info": {
+    "displayName": "Slider"
+  },
+  "options": {},
+  "attributes": {
+    "slides": {
+      "type": "component",
+      "component": "blocks.slide",
+      "repeatable": true,
+      "required": true
+    }
+  },
+  "config": {}
+}

@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_ui_components_cards",
+  "info": {
+    "displayName": "Cards"
+  },
+  "options": {},
+  "attributes": {
+    "cards": {
+      "type": "component",
+      "component": "blocks.card",
+      "repeatable": true,
+      "required": true
+    }
+  },
+  "config": {}
+}
